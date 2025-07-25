@@ -1,0 +1,1 @@
+Mean Absolute Error: 0.53 lakhs\nR² Score: 0.97\n

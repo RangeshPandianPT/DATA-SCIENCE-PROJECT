@@ -1,0 +1,5 @@
+Time,Accidents,Weather_Condition,Count,Road_Surface,Severity
+Morning,2300,Clear,4500,Dry,1
+Evening,3100,Rain,2000,Wet,2
+Night,1500,Snow,800,Icy,3
+Afternoon,2000,Fog,300,Snowy,4
