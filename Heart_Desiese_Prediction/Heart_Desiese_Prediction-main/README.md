@@ -107,17 +107,14 @@ Contributions are welcome! To contribute:
    ```
 5. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
 ### Contact
 
 If you have any questions or suggestions, feel free to reach out:
-- Author: Anfas KP
-- GitHub: [anfas-kp](https://github.com/anfas-kp)
+- Author: RANGESHPANDIAN PT
+- GitHub: https://github.com/RangeshPandianPT
 
 ---
 
